@@ -1,5 +1,5 @@
 # SABHYA USB HUB
-These files are files for my own USB Hub. You can upload it to any PCB manufacturer. Using the USB hub is easy, plug upstream port into you device and start using it!
+These files are files for my own USB Hub. You can upload it to any PCB manufacturer. Using the USB hub is easy, plug upstream port into you device and start using it! It has a USB-C input and it will output 2 USB-C ports and USB-A ports, making it perfect for a device like a MacBook with less ports!
 ## PCB Schematic
 <img width="1280" height="914" alt="image" src="https://github.com/user-attachments/assets/a286eca4-f041-4b68-ac47-7dbb0d3e4e77" />
 
